@@ -1,0 +1,22 @@
+body {
+    columns: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    max-width: 650px;
+    padding: 0 16px;
+ }
+
+ footer {
+     color: #888888;
+     border-top: 1px solid #eeeeee;
+     padding: 16px;
+     margin: 16px 0;
+ }
+
+ header {
+     margin: 0 16px;
+ }
+
+ h1 {
+     font-size: 64px
+ }
